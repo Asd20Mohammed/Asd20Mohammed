@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  I build production mobile apps for iOS and Android — Google Maps and live tracking,
+  I build production Flutter apps for mobile, web and desktop — Google Maps and live tracking,
   realtime chat and calls, payments and offline-first data — in Arabic and English.
+</p>
+
+<p align="center">
+  📱 Android · iOS &nbsp;|&nbsp; 🌐 Web &nbsp;|&nbsp; 🖥️ Windows · macOS · Linux
 </p>
 
 <p align="center">
@@ -33,15 +37,15 @@ Mobile app developer at **Smart Mind**. Previously and currently at **SMA — Sm
 | --- | --- | --- |
 | **ClubApp** | A platform to manage and connect communities of every kind — schools and educational groups, charities and associations, sports clubs, organizations and more. Mass mail and mass messages, chat and rooms, voice/video calls, events with a calendar, tasks, memberships, payments and notifications. | [App Store](https://apps.apple.com/app/club-app/id1604384267) · [Google Play](https://play.google.com/store/apps/details?id=com.smapp.cloud.clubApp) |
 | **Aflak** | Run and communicate with any community — educational, charitable, sports or professional. Reach every member at once with mass mail and mass messages, and keep them connected with groups, realtime chat, voice and video calls, events and shared tasks. | 🚧 In progress |
-| **Wajibi** | A volunteer first-aid platform that points the nearest health volunteer to a road accident so help starts before the ambulance arrives. Includes a mobile app for volunteers and an admin dashboard with live map tracking, charts, reports, user management and audit logs. | 🚧 In progress |
+| **Wajibi** | A volunteer first-aid platform that points the nearest health volunteer to a road accident so help starts before the ambulance arrives. Includes a mobile app for volunteers and a web admin dashboard with live map tracking, charts, reports, user management and audit logs. | 🚧 In progress |
 
 ## 🧰 Skills
 
 | Area | What I use |
 | --- | --- |
-| **Mobile** | Flutter, Dart; native bridges in Kotlin and Swift (platform channels); iOS and Android builds, app signing and store releases (TestFlight, Google Play) |
+| **Flutter, everywhere** | Flutter and Dart for Android, iOS, web, Windows, macOS and Linux from one codebase; responsive and adaptive layouts; platform-specific code (conditional imports, platform channels); native bridges in Kotlin and Swift; app signing and store releases (TestFlight, Google Play); web deployment on Firebase Hosting |
 | **Google Maps** | Google Maps SDK for Flutter (Android, iOS and web): custom markers, polylines and circles, light / dark custom map styles, live location tracking, geo-queries, location pickers, geocoding and reverse geocoding, location permissions — used in all my apps, and at its deepest in Wajibi's map-driven dashboard |
-| **Dashboards and admin tools** | Role-based admin dashboards: charts and statistics, user management, reports, audit logs, live map tracking |
+| **Dashboards and admin tools** | Role-based admin dashboards on Flutter web: charts and statistics, user management, reports, audit logs, live map tracking |
 | **Architecture** | Clean Architecture with feature-first modules (data / domain / presentation), SOLID and design patterns, dependency injection (get_it, injectable), a modular monorepo of local packages, architecture guard tests |
 | **State and navigation** | BLoC / Cubit, Riverpod, Provider, go_router with typed routes, RxDart |
 | **Networking** | REST with Dio and Retrofit, WebSocket for realtime, OAuth 2.0 / JWT, response caching, resumable file uploads (TUS) |
