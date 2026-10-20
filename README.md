@@ -1,7 +1,7 @@
 <h1 align="center">Mohammed Al-Ajeef</h1>
 
 <p align="center">
-  <b>Flutter &amp; Dart Developer</b> · Sana'a, Yemen · <b>Smart Mind</b>
+  <b>Flutter &amp; Dart Developer</b> · Smart Mind
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@
 
 ---
 
-## 📱 Apps I build
+## 🌐 Public work
 
-| App | What it is | What I do on it |
+| App | About | Get it |
 | --- | --- | --- |
-| **ClubApp** | A clubs and communities app: membership, chat and rooms, voice/video calls, events with a calendar, tasks, payments and notifications. | Mobile architecture and features end to end, from realtime messaging and calls to offline caching and store releases. |
-| **Aflak** | The Aflak-branded edition of the ClubApp codebase, shipped as its own app on the App Store and Google Play. | Ran the identity migration: new app IDs, a dedicated Firebase project in Saudi Arabia, Google / Apple sign-in, push (APNs + FCM) and `aflak://` deep links. |
-| **Wajibi** | A volunteer first-aid app that points the nearest health volunteer to a road-accident location so help can start before the ambulance arrives. | Flutter app on Firebase (Auth, Firestore, Cloud Functions, push) with maps and geo-queries. |
+| **ClubApp** | A clubs and communities app: membership, chat and rooms, voice/video calls, events with a calendar, tasks, payments and notifications. | [App Store](https://apps.apple.com/app/club-app/id1604384267) · [Google Play](https://play.google.com/store/apps/details?id=com.smapp.cloud.clubApp) |
+| **Aflak** | A social and community app for Arabic and English speakers: join groups and rooms, chat in realtime, make voice and video calls, plan events and share tasks. | 🚧 In progress |
+| **Wajibi** | A volunteer first-aid app that points the nearest health volunteer to a road-accident location so help can start before the ambulance arrives. | 🚧 In progress |
 
 ## 🧰 Skills
 
@@ -51,13 +51,6 @@
 | **Quality** | TDD, unit, widget and integration tests (flutter_test, mockito), static analysis, Flutter DevTools profiling, Sentry and Crashlytics |
 | **Ways of working** | Agile / Scrum, code review, architecture decision records, contract-first work with backend teams |
 
-## 🌐 Public work
-
-- [template_app_flutter](https://github.com/Asd20Mohammed/template_app_flutter) — a Flutter app template
-- [paginate_firestore](https://github.com/Asd20Mohammed/paginate_firestore) — fork of a pagination package for Firestore data
-
-Most of my work lives in private repositories, so this page is the best summary of it.
-
 ## 📫 Get in touch
 
 [WhatsApp](https://wa.me/966539651721) · Open to Flutter projects and collaborations.
@@ -66,11 +59,11 @@ Most of my work lives in private repositories, so this page is the best summary 
 
 <div dir="rtl" align="right">
 
-## 🇾🇪 نبذة
+## 👋 نبذة
 
-مطوّر **Flutter و Dart** من صنعاء. أبني تطبيقات iOS وأندرويد جاهزة للإنتاج: محادثات ومكالمات فورية، مدفوعات، وبيانات تعمل دون اتصال، بدعم كامل للعربية والإنجليزية (RTL).
+مطوّر تطبيقات **Flutter و Dart** لأندرويد وآيفون في شركة Smart Mind. أبني تطبيقات جاهزة للإنتاج: محادثات ومكالمات فورية، مدفوعات، وبيانات تعمل دون اتصال، بدعم كامل للعربية والإنجليزية (RTL).
 
-أعمل حاليًا على **ClubApp** و**أفلاك** و**واجبي** في شركة Smart Mind.
+أطوّر تطبيقات **ClubApp** و**أفلاك** و**واجبي**.
 
 للتواصل: [واتساب](https://wa.me/966539651721)
 
